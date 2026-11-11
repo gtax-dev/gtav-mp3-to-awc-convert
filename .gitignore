@@ -1,0 +1,11 @@
+# go build
+/gtav-mp3-to-awc-convert
+
+# goreleaser release --snapshot
+/dist/
+
+.DS_Store
+
+# converted output
+*.zip
+*.rpf
